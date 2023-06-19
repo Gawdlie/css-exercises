@@ -3,3 +3,14 @@
     font-family: Verdana, sans-serif;
     font-family: DejaVu Sans, sans-serif;
 }
+
+#number-two {
+    color: blue;
+    font-size: 36px;
+}
+
+#number-four {
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
