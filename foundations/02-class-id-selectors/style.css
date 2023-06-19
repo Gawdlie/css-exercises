@@ -1,12 +1,10 @@
-.number-one, 
-.number-five, 
-.number-three {
+.odd {
     background-color: pink;
     font-family: Verdana, sans-serif;
     font-family: DejaVu Sans, sans-serif;
 }
 
-.number-three {
+.new-font-size {
     font-size: 24px;
 }
 
