@@ -1,7 +1,13 @@
-.number-one, .number-five {
+.number-one, 
+.number-five, 
+.number-three {
     background-color: pink;
     font-family: Verdana, sans-serif;
     font-family: DejaVu Sans, sans-serif;
+}
+
+.number-three {
+    font-size: 24px;
 }
 
 #number-two {
