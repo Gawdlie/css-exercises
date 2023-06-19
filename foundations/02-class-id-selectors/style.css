@@ -1,7 +1,6 @@
 .odd {
     background-color: pink;
-    font-family: Verdana, sans-serif;
-    font-family: DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .new-font-size {
