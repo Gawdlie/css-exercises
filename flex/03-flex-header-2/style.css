@@ -12,6 +12,11 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+
+/* Edited code */
+display: flex;
+justify-content: space-between;
+padding: 8px;
 }
 
 .profile-image {
@@ -45,4 +50,22 @@ a {
 
 ul {
   list-style-type: none;
+
+
+  /* Edited code */
+  display: flex;
+  gap: 12px;
+  padding: 0px;
+  margin: 0px;
 }
+
+/* Edited code */
+.container, .container-two {
+  display: flex;
+  padding: 0px;
+  margin: 5px;
+  gap: 12px;
+  align-items: center;
+}
+
+
